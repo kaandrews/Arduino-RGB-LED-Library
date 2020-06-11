@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For AccelStepper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGBLED	KEYWORD1
+rgb	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup	KEYWORD2
+onOff	KEYWORD2
+flashing	KEYWORD2
+flashDelay	KEYWORD2
+fadeTo	KEYWORD2
+fadeDelay	KEYWORD2
+fading	KEYWORD2
+pulsing	KEYWORD2
+pulseDelay	KEYWORD2
+changeTo	KEYWORD2
+changeToWhite	KEYWORD2
+brightness	KEYWORD2
+loop	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+ 
